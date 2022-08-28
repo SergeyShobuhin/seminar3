@@ -59,5 +59,5 @@
 
 ### Создание новых веток
 
-        git branch <name>
+        git branch <name> // <name> - имя ветки
 
