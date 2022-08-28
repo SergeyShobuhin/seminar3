@@ -61,4 +61,6 @@
 
         git branch <name> // <name> - имя ветки
 
+### Слияние веток
 
+        git merge <name> 
